@@ -1,0 +1,12 @@
+Instructions to run the project:
+--------------------------------
+
+1. Download the Zip file and extract it.
+2. Go to Anaconda terminal
+3. Go to file location
+4. Install necessary modules to run
+Note: Create Twilio account and have a copy of authention_is and authentication_token.
+5. Now type the command python forestfiredetector.py
+6. Then new camera window will open then show some fire to it.
+7. Then it will send the necessary alert messages to authorities along with photocopy to email, mobile number.
+8. Click space bar to terminate the camera window.  
